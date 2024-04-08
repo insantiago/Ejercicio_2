@@ -1,3 +1,9 @@
 Que tal?
 Probando
+<<<<<<< HEAD
 Vuelvo a modificarlo
+=======
+
+
+Super !! :D
+>>>>>>> fe1b61299141b60c4a44ab7f271d6abe0f2d6929
